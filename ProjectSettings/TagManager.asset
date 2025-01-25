@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rings
+  - PointA
+  - PointB
+  - Goal
+  - Goal1
+  - Goal2
+  - Goal3
+  - Goal4
+  - Goal5
+  - Goal6
+  - Peg
+  - peg_row5
+  - peg_row4
+  - peg_row3
+  - peg_row2
+  - peg_row1
+  - AllPegs
+  - Zone1
+  - Zone2
+  - Zone3
+  - Zone4
+  - Zone5
+  - Zone6
+  - Shoot
+  - AllZones
+  - AllShoots
+  - GoalBounce
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
